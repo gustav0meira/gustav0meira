@@ -1,5 +1,6 @@
 ## 👋 Hey devs!!
 
+"provavelmente tô ocupado"
+
 - ♉ Signo: touro
-- 😄 Pronomes: ele/dele
 - ⚡ MBTI: INTP
