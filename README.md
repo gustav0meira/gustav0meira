@@ -6,7 +6,7 @@
 
 ![snake gif](https://github.com/gustav0meira/gustav0meira/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira)](https://github.com/gustav0meira/github-readme-stats&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
