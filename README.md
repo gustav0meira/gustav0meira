@@ -6,6 +6,8 @@
 
 ![snake gif](https://github.com/gustav0meira/gustav0meira/blob/output/github-contribution-grid-snake.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira)](https://github.com/gustav0meira/github-readme-stats)
+
 "provavelmente tô ocupado"
 
 - ♉ Signo: touro
