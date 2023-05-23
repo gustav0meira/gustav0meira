@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustav0meira/)](https://www.linkedin.com/in/gustav0meira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__gustx)](https://twitter.com/__gustx)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira&show_icons=true&bg_color=00000000)
-
 ![snake gif](https://github.com/gustav0meira/gustav0meira/blob/output/github-contribution-grid-snake.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira&show_icons=true&bg_color=00000000)
 
 "provavelmente tô ocupado"
 
