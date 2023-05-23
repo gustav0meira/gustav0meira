@@ -1,6 +1,6 @@
 ## 👋 Hey devs!!
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gustav0meira/gustav0meira/blob/output/github-contribution-grid-snake.svg)
 
 "provavelmente tô ocupado"
 
