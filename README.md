@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav0meira&show_icons=true&bg_color=00000000)
 
+![metrics plugin topics icons](https://github.com/gustav0meira/gustav0meira/assets/112213145/4972ba5e-1fc6-49a8-b869-7daf3bbe72b5)
+
 "provavelmente tô ocupado"
 
 - ♉ Signo: touro
